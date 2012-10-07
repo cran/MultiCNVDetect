@@ -1,0 +1,2 @@
+exportPattern(bladder,norm_2,P,Fx,delta_k,armijo_rule,calculate_direction,las_bycgd)
+useDynLib(MultiCNVDetect)
